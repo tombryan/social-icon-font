@@ -31,6 +31,7 @@ Icon font in .eot, .svg., .ttf, and .woff formats containing:
 * GitHub
 * Goodreads
 * Google+
+* Instagram
 * Instapaper
 * LinkedIn
 * Path
