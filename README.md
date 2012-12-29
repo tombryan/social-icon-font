@@ -1,6 +1,6 @@
 A webfont based on a set of social icon vectors [I originally made in 2010](http://dribbble.com/tombryan/projects/3384-Vector-Social-Icons) and had previously made available for commercial sale.
 
-![Icon font specimen](http://f7ba452bd2512f48a040-c7ddb6857650433c662afa96b425eb28.r56.cf2.rackcdn.com/specimen.png)
+![Icon font specimen](http://f7ba452bd2512f48a040-c7ddb6857650433c662afa96b425eb28.r56.cf2.rackcdn.com/specimen2.png)
 
 
 What's in the box:
