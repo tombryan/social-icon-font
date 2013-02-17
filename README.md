@@ -61,3 +61,5 @@ SVG files are included so you can create your own subset and generate new font f
 Instructions for use:
 ---------------------
 Please refer to [instructions on the FontCustom website.](https://github.com/endtwist/fontcustom)
+
+This font is licenced under the SIL Open Font 	Licence (OFL), Version 1.1
