@@ -5,7 +5,7 @@ A webfont based on a set of social icon vectors [I originally made in 2010](http
 
 What's in the box:
 ------------------
-Icon font in .eot, .svg., .ttf, and .woff formats containing:
+Webfont in .eot, .svg., .ttf, and .woff formats featuring the following icons:
 
 * AIM
 * Amazon
@@ -55,11 +55,11 @@ Icon font in .eot, .svg., .ttf, and .woff formats containing:
 * Zerply
 * Zootool
 
-SVG files are included so you can create your own subset and generate new font files with [FontCustom.](https://github.com/endtwist/fontcustom)
+SVG files are included so you can create your own subset or additions and generate new font files with [FontCustom.](https://github.com/FontCustom/fontcustom)
 
 
 Instructions for use:
 ---------------------
-Please refer to [instructions on the FontCustom website.](https://github.com/endtwist/fontcustom)
+Please refer to [instructions on the FontCustom website.](http://fontcustom.com/#output)
 
-This font is licenced under the SIL Open Font 	Licence (OFL), Version 1.1
+This font is licenced under the SIL Open Font Licence (OFL), Version 1.1
