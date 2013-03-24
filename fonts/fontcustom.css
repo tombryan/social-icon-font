@@ -1,5 +1,5 @@
 /*
-  Generated with Font Custom - icon webfonts made simple
+  Font Custom - icon webfonts made simple
 */
 
 @font-face {
@@ -84,35 +84,36 @@ li[class^="icon-"].icon-large:before, li[class*=" icon-"].icon-large:before {
 .icon-digg:before { content: "\f10c"; }
 .icon-dribbble:before { content: "\f10d"; }
 .icon-dropbox:before { content: "\f10e"; }
-.icon-etsy:before { content: "\f10f"; }
-.icon-evernote:before { content: "\f110"; }
-.icon-facebook:before { content: "\f111"; }
-.icon-flickr:before { content: "\f112"; }
-.icon-forrst:before { content: "\f113"; }
-.icon-foursquare:before { content: "\f114"; }
-.icon-github:before { content: "\f115"; }
-.icon-goodreads:before { content: "\f116"; }
-.icon-googleplus:before { content: "\f117"; }
-.icon-instagram:before { content: "\f118"; }
-.icon-instapaper:before { content: "\f119"; }
-.icon-linkedin:before { content: "\f11a"; }
-.icon-path:before { content: "\f11b"; }
-.icon-paypal:before { content: "\f11c"; }
-.icon-pinboard:before { content: "\f11d"; }
-.icon-pinterest:before { content: "\f11e"; }
-.icon-quora:before { content: "\f11f"; }
-.icon-readernaut:before { content: "\f120"; }
-.icon-reddit:before { content: "\f121"; }
-.icon-rss:before { content: "\f122"; }
-.icon-skype:before { content: "\f123"; }
-.icon-squarespace:before { content: "\f124"; }
-.icon-tumblr:before { content: "\f125"; }
-.icon-twitter:before { content: "\f126"; }
-.icon-vimeo:before { content: "\f127"; }
-.icon-wikipedia:before { content: "\f128"; }
-.icon-wordpress:before { content: "\f129"; }
-.icon-xbox:before { content: "\f12a"; }
-.icon-yahoomessenger:before { content: "\f12b"; }
-.icon-youtube:before { content: "\f12c"; }
-.icon-zerply:before { content: "\f12d"; }
-.icon-zootool:before { content: "\f12e"; }
+.icon-email:before { content: "\f10f"; }
+.icon-etsy:before { content: "\f110"; }
+.icon-evernote:before { content: "\f111"; }
+.icon-facebook:before { content: "\f112"; }
+.icon-flickr:before { content: "\f113"; }
+.icon-forrst:before { content: "\f114"; }
+.icon-foursquare:before { content: "\f115"; }
+.icon-github:before { content: "\f116"; }
+.icon-goodreads:before { content: "\f117"; }
+.icon-googleplus:before { content: "\f118"; }
+.icon-instagram:before { content: "\f119"; }
+.icon-instapaper:before { content: "\f11a"; }
+.icon-linkedin:before { content: "\f11b"; }
+.icon-path:before { content: "\f11c"; }
+.icon-paypal:before { content: "\f11d"; }
+.icon-pinboard:before { content: "\f11e"; }
+.icon-pinterest:before { content: "\f11f"; }
+.icon-quora:before { content: "\f120"; }
+.icon-readernaut:before { content: "\f121"; }
+.icon-reddit:before { content: "\f122"; }
+.icon-rss:before { content: "\f123"; }
+.icon-skype:before { content: "\f124"; }
+.icon-squarespace:before { content: "\f125"; }
+.icon-tumblr:before { content: "\f126"; }
+.icon-twitter:before { content: "\f127"; }
+.icon-vimeo:before { content: "\f128"; }
+.icon-wikipedia:before { content: "\f129"; }
+.icon-wordpress:before { content: "\f12a"; }
+.icon-xbox:before { content: "\f12b"; }
+.icon-yahoomessenger:before { content: "\f12c"; }
+.icon-youtube:before { content: "\f12d"; }
+.icon-zerply:before { content: "\f12e"; }
+.icon-zootool:before { content: "\f12f"; }
