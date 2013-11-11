@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<path fill="#231F20" d="M0,0v100h100V0H0z M61.824,49.5h-7.592V77H42.855V49.5h-5.688v-9.48h5.688v-5.688
-	C42.855,26.6,46.066,22,55.184,22h7.594v9.479h-4.744c-3.551,0-3.787,1.325-3.787,3.797l-0.014,4.743h8.6L61.824,49.5z"/>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" overflow="visible" xml:space="preserve">
+<path fill="#231F20" d="M50,0C22.386,0,0,22.386,0,50s22.386,50,50,50s50-22.386,50-50S77.614,0,50,0z M61.824,49.5h-7.592V77
+	H42.855V49.5h-5.688v-9.48h5.688v-5.688C42.855,26.6,46.066,22,55.184,22h7.594v9.479h-4.744c-3.551,0-3.787,1.325-3.787,3.797
+	l-0.014,4.743h8.6L61.824,49.5z"/>
 </svg>
