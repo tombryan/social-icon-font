@@ -1,3 +1,5 @@
+![screenshot](https://f.cloud.github.com/assets/436120/1519509/28b6df7c-4b62-11e3-9c3d-7ae140b45d1b.png)
+
 A simple social icon web font featuring 49 glyphs, ready to roll or freely customise for your needs.
 
 The SVG source files are included so you can create your own set or additions and generate new font files with [FontCustom.](https://github.com/FontCustom/fontcustom)
